@@ -25,18 +25,21 @@
 - 🏥 **[Medical Diagnostic Retrieval System](https://github.com/Arunyaiitm/medical-diagnostic-retrieval-system)** — plain-English querying over hospital radiology records
 - 🧠 **[DQN Brain Tumor](https://github.com/Arunyaiitm/DQN_braintumor)** — deep Q-network experiments on medical imaging
 - 📋 **[Student Survey Project](https://github.com/Arunyaiitm/Z1005ProjectStudentSurvey)** — data collection and analysis in Python
-- 🚦 **[Traffic Flow Prediction](https://github.com/Arunyaiitm/traffic-flow-prediction-mlp)** — forecasting traffic patterns with ML
-- 📰 **[Headline Extraction](https://github.com/Arunyaiitm/Headline-Extraction-from-Newspaper-PDFs-using-Gemini-Vision-AI)** — pulling key headlines from text
+- 🚦 **[Traffic Flow Prediction](ADD_TRAFFIC_REPO_LINK)** — forecasting traffic patterns with ML
+- 📰 **[Headline Extraction](ADD_HEADLINE_REPO_LINK)** — pulling key headlines from text
 
 ---
 
 ## 🛠️ Languages & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-<!-- Add or remove badges as they fit — e.g. PyTorch, scikit-learn, SQL, Pandas -->
 
 ---
 
