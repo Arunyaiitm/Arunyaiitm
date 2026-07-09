@@ -25,8 +25,8 @@
 - 🏥 **[Medical Diagnostic Retrieval System](https://github.com/Arunyaiitm/medical-diagnostic-retrieval-system)** — plain-English querying over hospital radiology records
 - 🧠 **[DQN Brain Tumor](https://github.com/Arunyaiitm/DQN_braintumor)** — deep Q-network experiments on medical imaging
 - 📋 **[Student Survey Project](https://github.com/Arunyaiitm/Z1005ProjectStudentSurvey)** — data collection and analysis in Python
-- 🚦 **[Traffic Flow Prediction](ADD_TRAFFIC_REPO_LINK)** — forecasting traffic patterns with ML
-- 📰 **[Headline Extraction](ADD_HEADLINE_REPO_LINK)** — pulling key headlines from text
+- 🚦 **[Traffic Flow Prediction](https://github.com/Arunyaiitm/traffic-flow-prediction-mlp)** — forecasting traffic patterns with ML
+- 📰 **[Headline Extraction](https://github.com/Arunyaiitm/Headline-Extraction-from-Newspaper-PDFs-using-Gemini-Vision-AI)** — pulling key headlines from text
 
 ---
 
