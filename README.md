@@ -1,16 +1,58 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Arunyaiitm/Arunyaiitm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Arunya 👋
 
-Here are some ideas to get you started:
+### 🧠 Data Science & AI Sophomore @ IIT Madras Zanzibar
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Profile Views](https://komarev.com/ghpvc/?username=Arunyaiitm&color=00b7ff&style=flat)
+
+</div>
+
+---
+
+## 📍 About Me
+
+- 🎓 Sophomore in **Data Science & AI** @ **IIT Madras Zanzibar Campus**
+- 📌 Based in New Delhi, India
+- 🤖 Into **machine learning & AI for healthcare**
+- 🚀 Keen to dive deeper into **AI agents and LLMs**
+- 🐍 Language of choice: `Python`
+
+---
+
+## 🔧 What I've Worked On
+
+- 🏥 **[Medical Diagnostic Retrieval System](https://github.com/Arunyaiitm/medical-diagnostic-retrieval-system)** — plain-English querying over hospital radiology records
+- 🧠 **[DQN Brain Tumor](https://github.com/Arunyaiitm/DQN_braintumor)** — deep Q-network experiments on medical imaging
+- 📋 **[Student Survey Project](https://github.com/Arunyaiitm/Z1005ProjectStudentSurvey)** — data collection and analysis in Python
+- 🚦 **[Traffic Flow Prediction](https://github.com/Arunyaiitm/traffic-flow-prediction-mlp)** — forecasting traffic patterns with ML
+- 📰 **[Headline Extraction](https://github.com/Arunyaiitm/Headline-Extraction-from-Newspaper-PDFs-using-Gemini-Vision-AI)** — pulling key headlines from text
+
+---
+
+## 🛠️ Languages & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+<!-- Add or remove badges as they fit — e.g. PyTorch, scikit-learn, SQL, Pandas -->
+
+---
+
+## 🌐 Connect with me
+
+<a href="https://www.linkedin.com/in/arunya-hooda/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:ADD_ARUNYA_EMAIL"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Arunya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arunyaiitm&show_icons=true&hide_border=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arunyaiitm&layout=compact&hide_border=true&theme=tokyonight)
+
+</div>
