@@ -26,7 +26,7 @@
 - 🧠 **[DQN Brain Tumor](https://github.com/Arunyaiitm/DQN_braintumor)** — deep Q-network experiments on medical imaging
 - 📋 **[Student Survey Project](https://github.com/Arunyaiitm/Z1005ProjectStudentSurvey)** — data collection and analysis in Python
 - 🚦 **[Traffic Flow Prediction](https://github.com/Arunyaiitm/traffic-flow-prediction-mlp)** — forecasting traffic patterns with ML
-- 📰 **[Headline Extraction](https://github.com/Arunyaiitm/Headline-Extraction-from-Newspaper-PDFs-using-Gemini-Vision-AI)** — pulling key headlines from text
+- 📰 **[Headline Extraction](https://github.com/Arunyaiitm/Headline-Extraction-from-Newspaper-PDFs-using-Gemini-Vision-AI)** — pulling key
 
 ---
 
@@ -47,15 +47,3 @@
 
 <a href="https://www.linkedin.com/in/arunya-hooda/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:ADD_ARUNYA_EMAIL"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Arunya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arunyaiitm&show_icons=true&hide_border=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arunyaiitm&layout=compact&hide_border=true&theme=tokyonight)
-
-</div>
