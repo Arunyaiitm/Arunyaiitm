@@ -42,19 +42,6 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ---
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Arunyaiitm&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 📈 GitHub Stats
 
 <div align="center">
@@ -63,11 +50,15 @@
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arunyaiitm&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img width="700" src="https://streak-stats.demolab.com?user=Arunyaiitm&theme=tokyonight&hide_border=true"/>
+</div>
 
-<img width="900" src="https://github-readme-activity-graph.vercel.app/graph?username=Arunyaiitm&theme=tokyo-night&hide_border=true"/>
+---
 
-<img src="https://github-profile-trophy.vercel.app/?username=Arunyaiitm&theme=tokyonight&no-frame=true&row=1&column=6"/>
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Arunyaiitm&theme=tokyonight&hide_border=true"/>
 
 </div>
 
